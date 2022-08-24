@@ -1,0 +1,15 @@
+/home/pooja/MyApp/bin/Debug/net6.0/MyApp
+/home/pooja/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/pooja/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/pooja/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/pooja/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/pooja/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/pooja/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/home/pooja/MyApp/obj/Debug/net6.0/ref/MyApp.dll
